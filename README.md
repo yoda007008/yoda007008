@@ -39,5 +39,5 @@
 <br/>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kirillpetrovskiy)](https://leetcode.com/kirillpetrovskiy)
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/kirillpetrovskiy?ext=heatmap)
 
