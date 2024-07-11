@@ -34,10 +34,10 @@
 
 <br/>
 
-## <div align="center">Моя статистика на Leetcode</div>
+## <div align="center">Моя активность на Leetcode</div>
 
 <br/>
 
 
-<div align="center">![](https://leetcard.jacoblin.cool/kirillpetrovskiy?ext=heatmap)</div>
+![](https://leetcard.jacoblin.cool/kirillpetrovskiy?ext=heatmap)
 
