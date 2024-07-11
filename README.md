@@ -34,7 +34,7 @@
 
 <br/>
 
-## <div align="center">Моя активность на Leetcode</div>
+## <div align="center">Моя активность на Leetcode⭐</div>
 
 <br/>
 
